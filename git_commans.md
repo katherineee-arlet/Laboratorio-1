@@ -19,3 +19,5 @@ git commit: se utiliza para confirmar los cambios.
 git push:es utilizado para empujar o  subir los cambios antes de la confirmación.
 
 git merge: utilizado para fusionar de ramas.
+
+cambio realizado para merge en rama fix-format.
